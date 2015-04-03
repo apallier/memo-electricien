@@ -9,6 +9,7 @@ Sommaire
    :maxdepth: 1
    
    bases
+   pieces
    securite
    mise_en_oeuvre
 
