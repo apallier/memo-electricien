@@ -1,6 +1,19 @@
-#####################################
-Aide-mémoire pour artisan électricien
-#####################################
+#############################
+Aide-mémoire pour électricien
+#############################
+
+Sommaire
+========
+
+.. toctree::
+   :maxdepth: 1
+   
+   bases
+   securite
+   mise_en_oeuvre
+
+Description
+===========
 
 Ce projet contient un aide-mémoire permettant d'accéder facilement à des informations que j'ai jugées utiles 
 dans le cadre de mes activités associatives en tant qu'artisan électricien.
@@ -19,16 +32,6 @@ de le consulter sur un chantier moyennant un smartphone et une connexion Interne
    ou une amélioration via mon compte Github.
    
    Et dans tous les cas : *"Soyez prudent !"* :-)
-
-Sommaire
-========
-
-.. toctree::
-   :maxdepth: 2
-   
-   bases
-   securite
-   mise_en_oeuvre
 
 Index et recherche
 ==================
