@@ -19,16 +19,16 @@ Prises
 La cuisine
 ==========
 
-6 socles dont 4 au dessus du plan de travail.
+* 6 socles dont 4 au dessus du plan de travail.
 
-4 circuits spécialisées parmi :
+* 4 circuits spécialisées parmi :
 
-* Plaques
-* Four
-* LV
-* LL
-* SL
-* Congèlateur
+   * Plaques
+   * Four
+   * LV
+   * LL
+   * SL
+   * Congèlateur
 
 
 La chambre
