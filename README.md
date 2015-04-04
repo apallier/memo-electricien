@@ -1,6 +1,6 @@
 # memo-electricien
 
-Ce projet contient un aide-mémoire permettant d'accéder facilement à des informations que j'ai jugées utiles dans le cadre de mes activités associatives en tant qu'artisan électricien. Il pourra aussi interesser d'autres électriciens car il inclue des éléments de la norme électrique française NFC-15100.
+Ce projet contient un aide-mémoire permettant d'accéder facilement à des informations que j'ai jugées utiles dans le cadre de mes activités associatives en tant qu'électricien. Il pourra aussi interesser d'autres électriciens car il inclue des rappels de la norme électrique française NFC-15100.
 
 Accès direct à l'aide-mémoire : <http://memo-electricien.readthedocs.org>
 

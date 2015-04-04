@@ -22,6 +22,7 @@ La cuisine
 6 socles dont 4 au dessus du plan de travail.
 
 4 circuits spécialisées parmi :
+
 * Plaques
 * Four
 * LV

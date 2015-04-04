@@ -17,11 +17,11 @@ Description
 ===========
 
 Ce projet contient un aide-mémoire permettant d'accéder facilement à des informations que j'ai jugées utiles 
-dans le cadre de mes activités associatives en tant qu'artisan électricien.
+dans le cadre de mes activités associatives en tant qu'électricien.
 
-Il pourra aussi interesser d'autres électriciens car il inclue des éléments de la norme électrique française NFC-15100.
+Il pourra aussi interesser d'autres électriciens car il inclue des rappels de la norme électrique française NFC-15100.
 
-Ce site est optimisé pour une lecture sur téléphone mobile (grâce au format ReadTheDocs). Il est ainsi facile
+Ce site est optimisé pour une **lecture sur téléphone mobile** (grâce au format ReadTheDocs). Il est ainsi facile
 de le consulter sur un chantier moyennant un smartphone et une connexion Internet.
    
 .. important::
@@ -32,7 +32,7 @@ de le consulter sur un chantier moyennant un smartphone et une connexion Interne
    Dans ce cas, merci de me prévenir d'un éventuel problème ou, encore mieux, de proposer une correction 
    ou une amélioration via mon compte Github.
    
-   Et dans tous les cas : *"Soyez prudent !"* :-)
+   Et dans tous les cas : **"Soyez prudent !"** :-)
 
 Index et recherche
 ==================
