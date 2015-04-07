@@ -5,6 +5,12 @@ Les bases de l'électricité
 Effets de l'électricité
 =======================
 
+Les 3 effets de l'électricité :
+
+* magnétique (moteur, électro-aimant...)
+* calorifique (chauffage électrique, lampe...)
+* chimique (pile, électrolyse...)
+
 .. image:: http://www.positron-libre.com/cours/electrotechnique/notion-electricite/images/effet-courant-electrique.png
 
 
