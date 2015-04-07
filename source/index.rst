@@ -2,6 +2,8 @@
 Aide-mémoire pour électricien
 #############################
 
+Dernière mise à jour : |today|
+
 Sommaire
 ========
 
@@ -10,8 +12,8 @@ Sommaire
    
    bases
    pieces
-   securite
    mise_en_oeuvre
+   schemas
 
 Description
 ===========
