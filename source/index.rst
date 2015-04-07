@@ -23,9 +23,9 @@ dans le cadre de mes activités associatives en tant qu'électricien.
 
 Il pourra aussi interesser d'autres électriciens car il inclue des rappels de la norme électrique française NFC-15100.
 
-Ce site est optimisé pour une **lecture sur téléphone mobile** (grâce au format ReadTheDocs). Il est ainsi facile
+Ce site est optimisé pour une **lecture sur smartphone/tablette** (grâce au format ReadTheDocs). Il est ainsi facile
 de le consulter sur un chantier moyennant un smartphone et une connexion Internet.
-   
+
 .. important::
 
    Malgré le fait qu'une attention particulière ait été portée sur la sécurité et le respect de la norme 
