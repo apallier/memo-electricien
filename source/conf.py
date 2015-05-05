@@ -11,8 +11,9 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import sys
 import os
+import sys
+
 
 try:
     import sphinx_rtd_theme
@@ -84,7 +85,7 @@ language = u'fr'
 # non-false value, then it is used:
 #today = ''
 # Else, today_fmt is used as the format for a strftime call.
-today_fmt = '%c'
+today_fmt = '%d/%m/%Y, %H'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
