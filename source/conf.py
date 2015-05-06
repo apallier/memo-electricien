@@ -85,7 +85,7 @@ language = u'fr'
 # non-false value, then it is used:
 #today = ''
 # Else, today_fmt is used as the format for a strftime call.
-today_fmt = '%d/%m/%Y, %H'
+today_fmt = '%d/%m/%Y, %Hh%M'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
