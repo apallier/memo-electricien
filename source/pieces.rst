@@ -2,6 +2,12 @@
 Les pièces
 ##########
 
+.. contents::
+   :local:
+   :depth: 1
+   :numbered:
+   :backlinks: entry
+
 Règles générales
 ================
 
@@ -16,8 +22,8 @@ Prises
 * 1 prise pour tout local > 4m²
 
 
-La cuisine
-==========
+Cuisine
+=======
 
 * 6 socles dont 4 au dessus du plan de travail.
 
@@ -31,8 +37,8 @@ La cuisine
    * Congèlateur
 
 
-La chambre
-==========
+Chambre
+=======
 
 * 3 socles PC minimum et un prise telecom
 
@@ -49,8 +55,10 @@ Salon
 * 1 prise de communication
 * 1 prise TV
 
+
 Salle de bain
 =============
+
 
 Les volumes
 -----------

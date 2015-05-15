@@ -10,10 +10,12 @@ Sommaire
 .. toctree::
    :maxdepth: 1
    
-   bases
    pieces
    mise_en_oeuvre
+   securite
+   handicape
    schemas
+   bases
 
 Description
 ===========
@@ -36,6 +38,10 @@ de le consulter sur un chantier moyennant un smartphone et une connexion Interne
    
    Et dans tous les cas : **"Soyez prudent !"** :-)
 
+.. note::
+
+   Outil utilisé pour les tableaux : http://www.tablesgenerator.com/
+   
 Index et recherche
 ==================
 

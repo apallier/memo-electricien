@@ -2,6 +2,12 @@
 Mise en oeuvre
 ##############
 
+.. contents::
+   :local:
+   :depth: 1
+   :numbered:
+   :backlinks: entry
+
 GTL
 ===
 
@@ -9,7 +15,7 @@ GTL
 
 
 Fils électriques
-=================
+================
 
 Sections
 --------
@@ -37,7 +43,7 @@ Sections
 Couleurs
 --------
 
-.. image:: ../images/couleurs-fils-electriques.png
+.. image:: ../../images/couleurs-fils-electriques.png
 
 Légende
 =======
