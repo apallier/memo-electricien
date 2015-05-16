@@ -7,52 +7,46 @@ Les pièces
    :depth: 1
    :backlinks: entry
 
-Règles générales
-================
 
-Eclairage
----------
+.. note:: ** Règle générale **
 
-* Minimum 1 plafonnier ou 2 appliques ou 2 PC commandées
-
-Prises
-------
-
-* 1 prise pour tout local > 4m²
-
+   :Eclairage: Minimum 1 plafonnier ou 2 appliques ou 2 PC commandées
+   :Prise courant: 1 prise pour tout local > 4m²
 
 Cuisine
 =======
 
-* 6 socles dont 4 au dessus du plan de travail.
+   :Prise courant: 
+      * 6 socles dont 4 au dessus du plan de travail.
 
-* 4 circuits spécialisées parmi :
-
-   * Plaques
-   * Four
-   * LV
-   * LL
-   * SL
-   * Congèlateur
-
+      * 4 circuits spécialisées parmi :
+      
+         * Plaques
+         * Four
+         * LV
+         * LL
+         * SL
+         * Congèlateur
 
 Chambre
 =======
 
-* 3 socles PC minimum et un prise telecom
+   :Prise courant: 3 socles PC minimum 
+   :TV: 1 prise
 
 Couloir
 =======
 
-* Max 1 m d'une porte
-* Jusqu'à 2 m si l'interrupteur est lumineux
+   :Eclairage: 
+      * Interrupteur à maximum 1 m d'une porte
+      * Jusqu'à 2 m si l'interrupteur est lumineux
 
 Salon
 =====
 
-* Un socle pour 4m² avec minimum 5 socles
-* 1 prise de communication
-* 1 prise TV
+   :Prise courant: Un socle pour 4m² avec minimum 5 socles
+   :Telecom: 1 prise
+   :TV: 1 prise
 
 
 Salle de bain
