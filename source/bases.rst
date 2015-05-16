@@ -2,6 +2,11 @@
 Les bases de l'électricité
 ##########################
 
+.. contents:: Menu
+   :local:
+   :depth: 1
+   :backlinks: entry
+
 Effets de l'électricité
 =======================
 

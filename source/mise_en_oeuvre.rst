@@ -2,10 +2,9 @@
 Mise en oeuvre
 ##############
 
-.. contents::
+.. contents:: Menu
    :local:
    :depth: 1
-   :numbered:
    :backlinks: entry
 
 GTL

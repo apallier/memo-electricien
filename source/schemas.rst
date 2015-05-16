@@ -2,6 +2,11 @@
 Schémas
 #######
 
+.. contents:: Menu
+   :local:
+   :depth: 1
+   :backlinks: entry
+
 Va et vient
 ===========
 

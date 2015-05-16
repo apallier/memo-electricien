@@ -2,6 +2,11 @@
 La sécurité
 ###########
 
+.. contents:: Menu
+   :local:
+   :depth: 1
+   :backlinks: entry
+
 Sécurité des personnes
 ======================
 
