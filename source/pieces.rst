@@ -3,10 +3,7 @@ Les pièces
 ##########
 
 .. contents:: `Menu`
-   :local:
-   :depth: 1
-   :numbered:
-   :backlinks: entry
+
 
 
 Règles générales
