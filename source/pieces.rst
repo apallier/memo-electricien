@@ -8,7 +8,8 @@ Les pièces
    :backlinks: entry
 
 
-.. note:: ** Règle générale **
+.. note:: 
+   ** Règle générale **
 
    :Eclairage: Minimum 1 plafonnier ou 2 appliques ou 2 PC commandées
    :Prise courant: 1 prise pour tout local > 4m²
