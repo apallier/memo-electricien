@@ -16,6 +16,7 @@ Sommaire
    handicape
    schemas
    bases
+   checklist_consuel
 
 Description
 ===========
