@@ -42,7 +42,7 @@ Sections
 Couleurs
 --------
 
-.. image:: ../../images/couleurs-fils-electriques.png
+.. image:: ../images/couleurs-fils-electriques.png
 
 Légende
 =======
